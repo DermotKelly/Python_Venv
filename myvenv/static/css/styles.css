@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 0, 174);
+}
+
+h1 {color: blue;
+text-align: center;}
+
+.header {background: aqua;}
+
+li {color: red;}
